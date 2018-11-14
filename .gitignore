@@ -1,0 +1,6 @@
+.pynb_checkpoints/
+.embeddings/*.txt
+._SimpleModel/.pynb_checkpoints/
+._SimpleModel/__pychache__
+._AdvancedModel/.pynb_checkpoints/
+._AdvancedModel/__pychache__
