@@ -4,3 +4,9 @@
 ._SimpleModel/__pychache__
 ._AdvancedModel/.pynb_checkpoints/
 ._AdvancedModel/__pychache__
+_AdvancedModel/.ipynb_checkpoints/advancedmodel-checkpoint.ipynb
+_AdvancedModel/__pycache__/prepro.cpython-36.pyc
+_AdvancedModel/__pycache__/validation.cpython-36.pyc
+_SimpleModel/.ipynb_checkpoints/simplemodel-checkpoint.ipynb
+embeddings/glove.6B.100d.txt
+embeddings/glove.6B.zip
